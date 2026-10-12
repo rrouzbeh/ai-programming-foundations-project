@@ -28,9 +28,10 @@ cd ai-programming-foundations-project
 git branch visualization-development origin/visualization-development
 ```
 
-The course also requires a public GitHub repository URL. The local history and ZIP
-are prepared; publish the restored repository and both branches, then supply its
-URL in the submission form.
+The public repository contains the project, multiple commits, and both branches:
+https://github.com/rrouzbeh/ai-programming-foundations-project
+
+Supply this URL in the course submission form when the repository link is requested.
 
 ## Reproducibility environment
 
